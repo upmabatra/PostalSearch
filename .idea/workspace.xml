@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="449df342-d872-4359-8bef-e04d9c5ea17a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Find.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Find.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Find.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Find.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,7 @@
       <workItem from="1586920666680" duration="299000" />
       <workItem from="1586988645005" duration="4218000" />
       <workItem from="1587057578250" duration="7390000" />
-      <workItem from="1587248872938" duration="1494000" />
+      <workItem from="1587248872938" duration="2252000" />
     </task>
     <task id="LOCAL-00001" summary="Adding code to master">
       <created>1587080833125</created>
@@ -125,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587084407836</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding code to master:hardcoded input :commented SOP:scanner on find">
+      <created>1587256796315</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587256796315</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +183,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding code to master" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding code to master" />
+    <MESSAGE value="Adding code to master:hardcoded input :commented SOP:scanner on find" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding code to master:hardcoded input :commented SOP:scanner on find" />
   </component>
   <component name="WindowStateProjectService">
     <state x="201" y="20" key="#Notifications" timestamp="1587081542223">
@@ -191,10 +199,10 @@
       <screen x="0" y="0" width="1215" height="720" />
     </state>
     <state x="240" y="50" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1215.720@0.0.1215.720" timestamp="1586989056411" />
-    <state x="233" y="0" key="CommitChangelistDialog2" timestamp="1587084407281">
+    <state x="233" y="0" key="CommitChangelistDialog2" timestamp="1587256795543">
       <screen x="0" y="0" width="1215" height="720" />
     </state>
-    <state x="233" y="0" key="CommitChangelistDialog2/0.0.1215.720@0.0.1215.720" timestamp="1587084407281" />
+    <state x="233" y="0" key="CommitChangelistDialog2/0.0.1215.720@0.0.1215.720" timestamp="1587256795543" />
     <state x="389" y="63" key="FileChooserDialogImpl" timestamp="1587084162393">
       <screen x="0" y="0" width="1215" height="720" />
     </state>
@@ -207,22 +215,22 @@
       <screen x="0" y="0" width="1215" height="720" />
     </state>
     <state x="415" y="255" key="Github.ShareDialog/0.0.1215.720@0.0.1215.720" timestamp="1587082798303" />
-    <state width="586" height="189" key="GridCell.Tab.0.bottom" timestamp="1587256687808">
+    <state width="586" height="189" key="GridCell.Tab.0.bottom" timestamp="1587259155890">
       <screen x="0" y="0" width="1215" height="720" />
     </state>
-    <state width="586" height="189" key="GridCell.Tab.0.bottom/0.0.1215.720@0.0.1215.720" timestamp="1587256687808" />
-    <state width="586" height="189" key="GridCell.Tab.0.center" timestamp="1587256687807">
+    <state width="586" height="189" key="GridCell.Tab.0.bottom/0.0.1215.720@0.0.1215.720" timestamp="1587259155890" />
+    <state width="586" height="189" key="GridCell.Tab.0.center" timestamp="1587259155889">
       <screen x="0" y="0" width="1215" height="720" />
     </state>
-    <state width="586" height="189" key="GridCell.Tab.0.center/0.0.1215.720@0.0.1215.720" timestamp="1587256687807" />
-    <state width="586" height="189" key="GridCell.Tab.0.left" timestamp="1587256687807">
+    <state width="586" height="189" key="GridCell.Tab.0.center/0.0.1215.720@0.0.1215.720" timestamp="1587259155889" />
+    <state width="586" height="189" key="GridCell.Tab.0.left" timestamp="1587259155889">
       <screen x="0" y="0" width="1215" height="720" />
     </state>
-    <state width="586" height="189" key="GridCell.Tab.0.left/0.0.1215.720@0.0.1215.720" timestamp="1587256687807" />
-    <state width="586" height="189" key="GridCell.Tab.0.right" timestamp="1587256687808">
+    <state width="586" height="189" key="GridCell.Tab.0.left/0.0.1215.720@0.0.1215.720" timestamp="1587259155889" />
+    <state width="586" height="189" key="GridCell.Tab.0.right" timestamp="1587259155890">
       <screen x="0" y="0" width="1215" height="720" />
     </state>
-    <state width="586" height="189" key="GridCell.Tab.0.right/0.0.1215.720@0.0.1215.720" timestamp="1587256687808" />
+    <state width="586" height="189" key="GridCell.Tab.0.right/0.0.1215.720@0.0.1215.720" timestamp="1587259155890" />
     <state width="1172" height="220" key="GridCell.Tab.1.bottom" timestamp="1586384690670">
       <screen x="0" y="0" width="1215" height="720" />
     </state>
@@ -247,10 +255,10 @@
       <screen x="0" y="0" width="1215" height="720" />
     </state>
     <state x="89" y="0" key="SettingsEditor/0.0.1215.720@0.0.1215.720" timestamp="1587081008323" />
-    <state x="201" y="94" key="Vcs.Push.Dialog.v2" timestamp="1587157121749">
+    <state x="201" y="94" key="Vcs.Push.Dialog.v2" timestamp="1587256812031">
       <screen x="0" y="0" width="1215" height="720" />
     </state>
-    <state x="201" y="94" key="Vcs.Push.Dialog.v2/0.0.1215.720@0.0.1215.720" timestamp="1587157121749" />
+    <state x="201" y="94" key="Vcs.Push.Dialog.v2/0.0.1215.720@0.0.1215.720" timestamp="1587256812031" />
     <state width="613" height="366" key="XDebugger.FullValuePopup" timestamp="1586382544797">
       <screen x="0" y="0" width="1215" height="720" />
     </state>

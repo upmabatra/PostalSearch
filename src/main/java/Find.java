@@ -3,12 +3,12 @@ import java.util.*;
 
 public class Find{
 public static void main(String[] args) throws FileNotFoundException {
-    System.out.println("Enter the zip code or county for which you wish to search");
+   // System.out.println("Enter the zip code or county for which you wish to search");
     Scanner input = new Scanner(System.in);
-    String userInput;
+    String userInput="64402";
     String userOutput = "";
     int userCode;
-    userInput = input.nextLine();
+   // userInput = input.nextLine();
     postalCode postCode;//postalCode(input.nextLine());
     try {
         userCode = Integer.parseInt(userInput);
